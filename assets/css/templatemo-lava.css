@@ -1186,10 +1186,11 @@ footer .right-content {
 
 .footer-content .right-content a {
   color: #fff;
+  background-color: #25d366;
 }
 
 .footer-content .right-content a:hover {
-  color: #fc3;
+  color: #dcf8c6;
 }
 
 footer .social {
